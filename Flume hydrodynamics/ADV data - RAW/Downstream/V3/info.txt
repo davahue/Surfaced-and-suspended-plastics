@@ -1,0 +1,2 @@
+q_step	Zmin(m)	Dz(m)	Hmax(m)	ks(m)
+3	0.000	0.02	0.278	6.7E-3
