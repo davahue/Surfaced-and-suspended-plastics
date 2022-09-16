@@ -1,9 +1,12 @@
 # Surfaced-and-suspended-plastics
 Codes and processed data accompanying the analysis of experimental tests disclosing on physics of surfaced and suspended buoyant plastics and the bias and uncertainty in their sampling in rivers.
 
+Contributors: Daniel Valero (main), Antonio Moreno (3D tracks) and Biruk S. Belay (data acquisition).
+
 All processed data, raw data (except videos due to size constraints) and codes of analysis are included in this repository.
 
 This repository includes the following folders (alphabetical order):
+
   - Bubbles attached to plastics:
 Laboratory observations of bubbles attached to plastics (cups, fragments and films) exposed at different velocities (V1 and V5).
 
@@ -27,3 +30,4 @@ Trajectories extracted from RAW videos using the codes of "Camera processing and
 
 Daniel Valero, Sept. 2022
 daniel.valero@kit.edu
+
