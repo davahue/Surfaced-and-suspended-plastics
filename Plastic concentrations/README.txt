@@ -3,6 +3,8 @@
 
 This folder contains the data extracted from the plastic elements trajectories and a Monte Carlo analysis comparing theoretical suspended transport profiles.
 
+It also analyses the performance of different monitoring strategies based on the experimental data ("Plastic monitoring strategies.py").
+
 	1. RAW DATA
 
 Dictionary of the data originating from palstic elements trajectories:
@@ -28,4 +30,4 @@ The code "Plot KS experimental data.py" loads all data and shows how the empiric
 
 The code "Plastic monitoring strategies.py" shows the performance of different riverine monitoring strategies on the estimation of the total plastic budget, based on the experimental observations.
 
-The code Concentration_profiles_faux.py" provides supporting functions to other codes.
+The code "Concentration_profiles_faux.py" provides supporting functions to other codes.
