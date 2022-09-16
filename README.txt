@@ -24,3 +24,6 @@ Result from the pycnometer analysis (plastic density estimations).
 
   - Plastic trajectories:
 Trajectories extracted from RAW videos using the codes of "Camera processing and 3D tracks".
+
+Daniel Valero, Sept. 2022
+daniel.valero@kit.edu
